@@ -1,0 +1,28 @@
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\Microfilm_Dafater_D810.exe.config
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\Microfilm_Dafater_D810.exe
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\Microfilm_Dafater_D810.pdb
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\AForge.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\aforge.imaging.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\AForge.Math.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\nikoncswrapper.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.Form1.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.forms.change_pw.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.forms.main_form.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.Properties.Resources.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.csproj.GenerateResource.Cache
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.exe
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.pdb
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\Microfilm_Dafater_D810.exe.config
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\Microfilm_Dafater_D810.exe
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\Microfilm_Dafater_D810.pdb
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Release\nikoncswrapper.dll
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.csprojResolveAssemblyReference.cache
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.Form1.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.forms.change_pw.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.forms.main_form.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.Properties.Resources.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.csproj.GenerateResource.Cache
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.exe
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Release\Microfilm_Dafater_D810.pdb

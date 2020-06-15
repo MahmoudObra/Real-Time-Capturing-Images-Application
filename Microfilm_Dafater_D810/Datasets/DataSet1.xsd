@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.Microfilm_Dafater_D810.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OracleClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Tasks12TableAdapter" GeneratorDataComponentClassName="Tasks12TableAdapter" Name="Tasks12" UserDataComponentName="Tasks12TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MTD_TASKS.TASK_ID, MTD_TASKS.TASK_NAME, MTD_TASKS.DAFTAR_CODE, MTD_TASKS.FROM_PAGE, MTD_TASKS.TO_PAGE, MTD_TASKS.TASK_DATE, 
+                         MTD_TASKS.TASK_STATUS, MTD_TASKS.TASK_USER, MTD_TASK_STATUS.NAME, MTD_DAFATER.DAFTAR_NAME, SUB_GROUP_DAFTAR.SUB_NAME_DAFTAR, 
+                         MTD_TASKS.SCANNER_TYPE
+FROM            MTD_TASKS, MTD_TASK_STATUS, MTD_DAFATER, SUB_GROUP_DAFTAR
+WHERE        MTD_TASKS.TASK_STATUS = MTD_TASK_STATUS.ID AND MTD_TASKS.DAFTAR_CODE = MTD_DAFATER.DAFTAR_CODE AND 
+                         MTD_DAFATER.SUB_GROUP = SUB_GROUP_DAFTAR.SUB_CODE_DAFTAR AND (MTD_TASKS.TASK_STATUS IN (1, 2)) 
+ORDER BY MTD_TASKS.TASK_DATE</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TASK_ID" DataSetColumn="TASK_ID" />
+              <Mapping SourceColumn="TASK_NAME" DataSetColumn="TASK_NAME" />
+              <Mapping SourceColumn="DAFTAR_CODE" DataSetColumn="DAFTAR_CODE" />
+              <Mapping SourceColumn="FROM_PAGE" DataSetColumn="FROM_PAGE" />
+              <Mapping SourceColumn="TO_PAGE" DataSetColumn="TO_PAGE" />
+              <Mapping SourceColumn="TASK_DATE" DataSetColumn="TASK_DATE" />
+              <Mapping SourceColumn="TASK_STATUS" DataSetColumn="TASK_STATUS" />
+              <Mapping SourceColumn="TASK_USER" DataSetColumn="TASK_USER" />
+              <Mapping SourceColumn="NAME" DataSetColumn="NAME" />
+              <Mapping SourceColumn="DAFTAR_NAME" DataSetColumn="DAFTAR_NAME" />
+              <Mapping SourceColumn="SUB_NAME_DAFTAR" DataSetColumn="SUB_NAME_DAFTAR" />
+              <Mapping SourceColumn="SCANNER_TYPE" DataSetColumn="SCANNER_TYPE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="sub_group_nowTableAdapter" GeneratorDataComponentClassName="sub_group_nowTableAdapter" Name="sub_group_now" UserDataComponentName="sub_group_nowTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MTD_TASKS.TASK_USER, SUB_GROUP_DAFTAR.SUB_CODE_DAFTAR, SUB_GROUP_DAFTAR.SUB_NAME_DAFTAR
+FROM            MTD_TASKS, MTD_DAFATER, SUB_GROUP_DAFTAR
+WHERE        MTD_TASKS.DAFTAR_CODE = MTD_DAFATER.DAFTAR_CODE AND MTD_DAFATER.SUB_GROUP = SUB_GROUP_DAFTAR.SUB_CODE_DAFTAR
+GROUP BY MTD_TASKS.TASK_USER, SUB_GROUP_DAFTAR.SUB_CODE_DAFTAR, SUB_GROUP_DAFTAR.SUB_NAME_DAFTAR, SUB_GROUP_DAFTAR.MAS_CODE_DAFTAR</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TASK_USER" DataSetColumn="TASK_USER" />
+              <Mapping SourceColumn="SUB_CODE_DAFTAR" DataSetColumn="SUB_CODE_DAFTAR" />
+              <Mapping SourceColumn="SUB_NAME_DAFTAR" DataSetColumn="SUB_NAME_DAFTAR" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tasks12" msprop:Generator_TableClassName="Tasks12DataTable" msprop:Generator_TableVarName="tableTasks12" msprop:Generator_RowChangedName="Tasks12RowChanged" msprop:Generator_TablePropName="Tasks12" msprop:Generator_RowDeletingName="Tasks12RowDeleting" msprop:Generator_RowChangingName="Tasks12RowChanging" msprop:Generator_RowEvHandlerName="Tasks12RowChangeEventHandler" msprop:Generator_RowDeletedName="Tasks12RowDeleted" msprop:Generator_RowClassName="Tasks12Row" msprop:Generator_UserTableName="Tasks12" msprop:Generator_RowEvArgName="Tasks12RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TASK_ID" msprop:Generator_ColumnVarNameInTable="columnTASK_ID" msprop:Generator_ColumnPropNameInRow="TASK_ID" msprop:Generator_ColumnPropNameInTable="TASK_IDColumn" msprop:Generator_UserColumnName="TASK_ID" type="xs:decimal" />
+              <xs:element name="TASK_NAME" msprop:Generator_ColumnVarNameInTable="columnTASK_NAME" msprop:Generator_ColumnPropNameInRow="TASK_NAME" msprop:Generator_ColumnPropNameInTable="TASK_NAMEColumn" msprop:Generator_UserColumnName="TASK_NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DAFTAR_CODE" msprop:Generator_ColumnVarNameInTable="columnDAFTAR_CODE" msprop:Generator_ColumnPropNameInRow="DAFTAR_CODE" msprop:Generator_ColumnPropNameInTable="DAFTAR_CODEColumn" msprop:Generator_UserColumnName="DAFTAR_CODE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FROM_PAGE" msprop:Generator_ColumnVarNameInTable="columnFROM_PAGE" msprop:Generator_ColumnPropNameInRow="FROM_PAGE" msprop:Generator_ColumnPropNameInTable="FROM_PAGEColumn" msprop:Generator_UserColumnName="FROM_PAGE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TO_PAGE" msprop:Generator_ColumnVarNameInTable="columnTO_PAGE" msprop:Generator_ColumnPropNameInRow="TO_PAGE" msprop:Generator_ColumnPropNameInTable="TO_PAGEColumn" msprop:Generator_UserColumnName="TO_PAGE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TASK_DATE" msprop:Generator_ColumnVarNameInTable="columnTASK_DATE" msprop:Generator_ColumnPropNameInRow="TASK_DATE" msprop:Generator_ColumnPropNameInTable="TASK_DATEColumn" msprop:Generator_UserColumnName="TASK_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TASK_STATUS" msprop:Generator_ColumnVarNameInTable="columnTASK_STATUS" msprop:Generator_ColumnPropNameInRow="TASK_STATUS" msprop:Generator_ColumnPropNameInTable="TASK_STATUSColumn" msprop:Generator_UserColumnName="TASK_STATUS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TASK_USER" msprop:Generator_ColumnVarNameInTable="columnTASK_USER" msprop:Generator_ColumnPropNameInRow="TASK_USER" msprop:Generator_ColumnPropNameInTable="TASK_USERColumn" msprop:Generator_UserColumnName="TASK_USER" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NAME" msprop:Generator_ColumnVarNameInTable="columnNAME" msprop:Generator_ColumnPropNameInRow="NAME" msprop:Generator_ColumnPropNameInTable="NAMEColumn" msprop:Generator_UserColumnName="NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DAFTAR_NAME" msprop:Generator_ColumnVarNameInTable="columnDAFTAR_NAME" msprop:Generator_ColumnPropNameInRow="DAFTAR_NAME" msprop:Generator_ColumnPropNameInTable="DAFTAR_NAMEColumn" msprop:Generator_UserColumnName="DAFTAR_NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SUB_NAME_DAFTAR" msprop:Generator_ColumnVarNameInTable="columnSUB_NAME_DAFTAR" msprop:Generator_ColumnPropNameInRow="SUB_NAME_DAFTAR" msprop:Generator_ColumnPropNameInTable="SUB_NAME_DAFTARColumn" msprop:Generator_UserColumnName="SUB_NAME_DAFTAR">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="80" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SCANNER_TYPE" msprop:Generator_ColumnVarNameInTable="columnSCANNER_TYPE" msprop:Generator_ColumnPropNameInRow="SCANNER_TYPE" msprop:Generator_ColumnPropNameInTable="SCANNER_TYPEColumn" msprop:Generator_UserColumnName="SCANNER_TYPE" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="sub_group_now" msprop:Generator_TableClassName="sub_group_nowDataTable" msprop:Generator_TableVarName="tablesub_group_now" msprop:Generator_TablePropName="sub_group_now" msprop:Generator_RowDeletingName="sub_group_nowRowDeleting" msprop:Generator_RowChangingName="sub_group_nowRowChanging" msprop:Generator_RowEvHandlerName="sub_group_nowRowChangeEventHandler" msprop:Generator_RowDeletedName="sub_group_nowRowDeleted" msprop:Generator_UserTableName="sub_group_now" msprop:Generator_RowChangedName="sub_group_nowRowChanged" msprop:Generator_RowEvArgName="sub_group_nowRowChangeEvent" msprop:Generator_RowClassName="sub_group_nowRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TASK_USER" msprop:Generator_ColumnVarNameInTable="columnTASK_USER" msprop:Generator_ColumnPropNameInRow="TASK_USER" msprop:Generator_ColumnPropNameInTable="TASK_USERColumn" msprop:Generator_UserColumnName="TASK_USER" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SUB_CODE_DAFTAR" msprop:Generator_ColumnVarNameInTable="columnSUB_CODE_DAFTAR" msprop:Generator_ColumnPropNameInRow="SUB_CODE_DAFTAR" msprop:Generator_ColumnPropNameInTable="SUB_CODE_DAFTARColumn" msprop:Generator_UserColumnName="SUB_CODE_DAFTAR">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="7" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SUB_NAME_DAFTAR" msprop:Generator_ColumnVarNameInTable="columnSUB_NAME_DAFTAR" msprop:Generator_ColumnPropNameInRow="SUB_NAME_DAFTAR" msprop:Generator_ColumnPropNameInTable="SUB_NAME_DAFTARColumn" msprop:Generator_UserColumnName="SUB_NAME_DAFTAR">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="80" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Tasks12" />
+      <xs:field xpath="mstns:TASK_ID" />
+    </xs:unique>
+    <xs:unique name="sub_group_now_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:sub_group_now" />
+      <xs:field xpath="mstns:SUB_CODE_DAFTAR" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

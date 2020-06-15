@@ -1,0 +1,74 @@
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe.config
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.pdb
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Form1.resources
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.main_form.resources
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Properties.Resources.resources
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csproj.GenerateResource.Cache
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.exe
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.pdb
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+D:\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csprojResolveAssemblyReference.cache
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe.config
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.exe
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.pdb
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.pdb
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\nikoncswrapper.dll
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Form1.resources
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.main_form.resources
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Properties.Resources.resources
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\GenerateResource.read.1.tlog
+\\192.9.201.78\d$\admin files\applications\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe.config
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.exe
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.pdb
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.pdb
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Form1.resources
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.change_pw.resources
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.main_form.resources
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Properties.Resources.resources
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cap 7amdy\Desktop\curr\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe.config
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.exe
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.pdb
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.pdb
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csprojResolveAssemblyReference.cache
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Form1.resources
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.change_pw.resources
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.main_form.resources
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Properties.Resources.resources
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csproj.GenerateResource.Cache
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\AForge.dll
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\aforge.imaging.dll
+D:\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\AForge.Math.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe.config
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.pdb
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\AForge.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\aforge.imaging.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\AForge.Math.dll
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Form1.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.change_pw.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.main_form.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Properties.Resources.resources
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csproj.GenerateResource.Cache
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.exe
+\\192.9.201.78\d$\New Folder\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.pdb
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csprojResolveAssemblyReference.cache
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Form1.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.change_pw.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.main_form.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.forms.tasweer_daf.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.Properties.Resources.resources
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\obj\x86\Debug\Microfilm_Dafater_D810.csproj.GenerateResource.Cache
+D:\Microfilm_Dafater_D810\Microfilm_Dafater_D810\bin\Debug\Microfilm_Dafater_D810.exe.config
